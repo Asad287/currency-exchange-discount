@@ -1,0 +1,14 @@
+@startuml
+class BillController
+class BillCalculationService
+class CurrencyExchangeService
+class DiscountCalculator
+class BillRequest
+class BillResponse
+
+BillController --> BillCalculationService
+BillCalculationService --> CurrencyExchangeService
+BillCalculationService --> DiscountCalculator
+BillCalculationService --> BillRequest
+BillCalculationService --> BillResponse
+@enduml

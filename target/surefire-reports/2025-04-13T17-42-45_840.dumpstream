@@ -1,0 +1,5 @@
+# Created at 2025-04-13T17:42:46.179
+Boot Manifest-JAR contains absolute paths in classpath 'D:\assignment\Asad\currency-exchange-discount\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

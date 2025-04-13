@@ -1,0 +1,10 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+currency-exchange-discount,com.example.currencyexchange.utils,DiscountCalculator,3,63,1,9,1,14,2,6,1,2
+currency-exchange-discount,com.example.currencyexchange.config,SecurityConfig,52,0,0,0,14,0,3,0,3,0
+currency-exchange-discount,com.example.currencyexchange.controllers,BillController,11,0,0,0,3,0,2,0,2,0
+currency-exchange-discount,com.example.currencyexchange.services,BillCalculationService,0,30,0,0,0,8,0,2,0,2
+currency-exchange-discount,com.example.currencyexchange.services,CurrencyExchangeService,39,0,2,0,7,0,3,0,2,0
+currency-exchange-discount,com.example.currencyexchange.models,BillRequest.Item,0,17,0,0,0,5,0,5,0,5
+currency-exchange-discount,com.example.currencyexchange.models,BillResponse,8,15,0,0,2,6,2,3,2,3
+currency-exchange-discount,com.example.currencyexchange.models,BillRequest,0,45,0,0,0,13,0,13,0,13
+currency-exchange-discount,com.example.currencyexchange,CurrencyExchangeApplication,8,0,0,0,3,0,2,0,2,0
